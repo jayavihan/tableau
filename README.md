@@ -1,9 +1,12 @@
 # tableau
 Tableau Dashboards Project
-This project includes interactive Customer and Sales Dashboards for 2022, designed in Tableau. These dashboards provide insights into key metrics for both customer behavior and sales performance, alongside a filter slicer panel that allows users to customize their view by selecting different criteria like year, location, and product categories.
+This project includes interactive Customer and Sales Dashboards , designed in Tableau. These dashboards provide insights into key metrics for both customer behavior and sales performance, alongside a filter slicer panel that allows users to customize their view by selecting different criteria like year, location, and product categories.
 
 Dashboard Overview
+
 Customer Dashboard
+
+
 The Customer Dashboard provides insights into customer-related metrics, including total orders, sales per customer, and customer distribution. Key features include:
 
 Total Orders: Displays the number of customer orders for 2022 with a comparison to 2021, showing the percentage increase.
@@ -39,8 +42,8 @@ Use the filter slicer panel to apply filters for year, location, and product to 
 Explore the different metrics, charts, and tables to gain insights into customer and sales performance for 2022.
 Alternatively, the dashboards are available on Tableau Public:
 
-Customer Dashboard on Tableau Public (provide the specific link)
-Sales Dashboard on Tableau Public (provide the specific link)
+[https://public.tableau.com/app/profile/jayavihan.senura/viz/SalesDashboardFullProject/Dashboard12?publish=yes](https://public.tableau.com/app/profile/jayavihan.senura/viz/SalesDashboardFullProject/Dashboard12?publish=yes)
+
 Insights and Observations
 Customer Dashboard:
 
