@@ -11,7 +11,8 @@ Customer Dashboard 💹
 <img width="704" alt="Screenshot 2024-11-05 231054" src="https://github.com/user-attachments/assets/6774354c-c14b-467d-b2b6-bfb799b31b7b">
 
 Filter Slicer Panel  
-
+<img width="650" alt="Screenshot 2024-11-05 232037" src="https://github.com/user-attachments/assets/f7f22b3e-66f1-442d-8181-5662c2accebc">  
+  
 Customer Dashboard  
 The Customer Dashboard provides insights into customer-related metrics, including total orders, sales per customer, and customer distribution. Key features include:
 
