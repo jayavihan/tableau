@@ -50,6 +50,6 @@ Use the filter slicer panel to apply filters for year, location, and product to 
 Explore the different metrics, charts, and tables to gain insights into customer and sales performance.
 Alternatively, the dashboards are available on Tableau Public:
 
-[https://public.tableau.com/app/profile/jayavihan.senura/viz/SalesDashboardFullProject/Dashboard12?publish=yes](https://public.tableau.com/app/profile/jayavihan.senura/viz/SalesDashboardFullProject/Dashboard12?publish=yes)
+LINK 🔗👉 [https://public.tableau.com/app/profile/jayavihan.senura/viz/SalesDashboardFullProject/Dashboard12?publish=yes](https://public.tableau.com/app/profile/jayavihan.senura/viz/SalesDashboardFullProject/Dashboard12?publish=yes)
 
-
+Thank You.
