@@ -1,9 +1,9 @@
-# tableau
-Tableau Dashboards Project
+# TABLEAU Project
+
 This project includes interactive Customer and Sales Dashboards , designed in Tableau. These dashboards provide insights into key metrics for both customer behavior and sales performance, alongside a filter slicer panel that allows users to customize their view by selecting different criteria like year, location, and product categories.
 
-Dashboard Overview
-
+Sales Dashboard 
+<img width="704" alt="Screenshot 2024-11-05 231054" src="https://github.com/user-attachments/assets/6774354c-c14b-467d-b2b6-bfb799b31b7b">
 Customer Dashboard
 
 
